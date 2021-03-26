@@ -1,0 +1,6 @@
+D:\Project\0321 GLL0010319\Code\webcalc-multiple-csharp\webcalc-multiple-csharp\bin\Debug\webcalc_multiple_csharp.exe
+D:\Project\0321 GLL0010319\Code\webcalc-multiple-csharp\webcalc-multiple-csharp\bin\Debug\webcalc_multiple_csharp.pdb
+D:\Project\0321 GLL0010319\Code\webcalc-multiple-csharp\webcalc-multiple-csharp\obj\Debug\webcalc-multiple-csharp.csprojAssemblyReference.cache
+D:\Project\0321 GLL0010319\Code\webcalc-multiple-csharp\webcalc-multiple-csharp\obj\Debug\webcalc-multiple-csharp.csproj.CoreCompileInputs.cache
+D:\Project\0321 GLL0010319\Code\webcalc-multiple-csharp\webcalc-multiple-csharp\obj\Debug\webcalc_multiple_csharp.exe
+D:\Project\0321 GLL0010319\Code\webcalc-multiple-csharp\webcalc-multiple-csharp\obj\Debug\webcalc_multiple_csharp.pdb
